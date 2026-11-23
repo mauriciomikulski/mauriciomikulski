@@ -1,7 +1,7 @@
 ### Olá, me chamo Mauricio Mikulski
 
 - 🔭 Trabalho com Nodejs, Typescript, React, JAVA, C#, Angular
-- 🌱 Atualmente estou aprimorando meus conhecimentos em S.O.L.I.D
+- 🌱 Atualmente estou me aventurando em desenvolvimento de games
 - 💬 Dou muito valor a troca de conhecimentos
 - 📫 Entre em contato no email: mauriciomikulski.dev@gmail.com
 
